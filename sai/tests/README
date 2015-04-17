@@ -7,8 +7,8 @@ google-test from this location
 https://code.google.com/p/googletest/downloads/list
 update the pointer to gtest in the Makefile
 
-We also rely on SAI binaries which are _your_ implementation of the SAI API
-Update the pointer to SAI binary and other Linking flags in Makefile
+We also rely on SAI library which are _your_ implementation of the SAI API
+Update the pointer to SAI library and other Linking flags in Makefile
 Update the pointer to the SAI API Include directory, if necessary. 
 
 ## Building unit-tests ##
